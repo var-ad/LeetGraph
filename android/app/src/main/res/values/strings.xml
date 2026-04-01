@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LeetGraph</string>
+    <string name="widget_label">&#8203;</string>
+    <string name="widget_description">LeetCode activity heatmap widget</string>
+    <string name="widget_refresh">Refresh widget</string>
+    <string name="widget_graph">LeetCode activity graph</string>
+</resources>
