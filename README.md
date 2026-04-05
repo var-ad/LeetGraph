@@ -113,21 +113,3 @@ android/app/src/main/kotlin/com/example/leetgraph/
 	WidgetStorage.kt
 	LeetGraphContract.kt
 ```
-
-## Contributing
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Make your changes and run:
-
-```bash
-flutter analyze
-flutter test
-```
-
-4. Open a pull request with a clear summary and screenshots/GIFs for UI changes.
-
-## Notes
-
-- This repository currently has no CI workflow configured.
-- A license file is not present yet. Add one before publishing or accepting external contributions.
